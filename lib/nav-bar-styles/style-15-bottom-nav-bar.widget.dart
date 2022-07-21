@@ -137,7 +137,7 @@ class BottomNavStyle15 extends StatelessWidget {
                           scrollDirection: Axis.horizontal,
                           children: <Widget>[
                             Padding(
-                                padding: const EdgeInsets.only(right: 2.0),
+                                padding: const EdgeInsets.only(right: 6.0),
                                 child: Column(
                                   mainAxisAlignment: MainAxisAlignment.center,
                                   crossAxisAlignment: CrossAxisAlignment.center,
